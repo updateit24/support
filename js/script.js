@@ -2006,7 +2006,7 @@ window.addEventListener("load", function(){
     }
   },
   "content": {
-    "href": "https://www.multinformaticamadrid.com/cookies-policy",
+    "href": "https://github.com/updateit24/support/cookies-policy",
 	"message": "Utilizamos cookies propias y de terceros para que tenga la mejor experiencia en nuestro sitio web. Si continúa navegando, confirma que acepta su uso y nuestra ",
     "dismiss": "Acepto!",
     "link": "Política de cookies"

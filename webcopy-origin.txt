@@ -38,363 +38,363 @@ Uri: https://www.googletagmanager.com/gtag/js?id=G-M5DLGMBFT6
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\gtag\js
 Content Type: application/javascript
 
-Uri: https://www.multinformaticamadrid.com/
+Uri: https://github.com/updateit24/support/
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\index.htm
 Content Type: text/html
 
-Uri: https://www.multinformaticamadrid.com/apple-imac
+Uri: https://github.com/updateit24/support/apple-imac
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\apple-imac.html
 Content Type: text/html
 
-Uri: https://www.multinformaticamadrid.com/contacto
+Uri: https://github.com/updateit24/support/contacto
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\contacto.html
 Content Type: text/html
 
-Uri: https://www.multinformaticamadrid.com/css/bootstrap.css
+Uri: https://github.com/updateit24/support/css/bootstrap.css
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\css (1)\bootstrap.css
 Content Type: text/css
 
-Uri: https://www.multinformaticamadrid.com/css/fonts.css
+Uri: https://github.com/updateit24/support/css/fonts.css
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\css (1)\fonts.css
 Content Type: text/css
 
-Uri: https://www.multinformaticamadrid.com/css/style.css
+Uri: https://github.com/updateit24/support/css/style.css
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\css (1)\style.css
 Content Type: text/css
 
-Uri: https://www.multinformaticamadrid.com/dell-990
+Uri: https://github.com/updateit24/support/dell-990
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\dell-990.html
 Content Type: text/html
 
-Uri: https://www.multinformaticamadrid.com/dell-e5440
+Uri: https://github.com/updateit24/support/dell-e5440
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\dell-e5440.html
 Content Type: text/html
 
-Uri: https://www.multinformaticamadrid.com/dell-e6410
+Uri: https://github.com/updateit24/support/dell-e6410
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\dell-e6410.html
 Content Type: text/html
 
-Uri: https://www.multinformaticamadrid.com/fonts/fl-bigmug-line.eot
+Uri: https://github.com/updateit24/support/fonts/fl-bigmug-line.eot
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\fonts\fl-bigmug-line.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.multinformaticamadrid.com/fonts/fl-bigmug-line.svg
+Uri: https://github.com/updateit24/support/fonts/fl-bigmug-line.svg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\fonts\fl-bigmug-line.svg
 Content Type: image/svg+xml
 
-Uri: https://www.multinformaticamadrid.com/fonts/fl-bigmug-line.ttf
+Uri: https://github.com/updateit24/support/fonts/fl-bigmug-line.ttf
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\fonts\fl-bigmug-line.ttf
 Content Type: application/font-sfnt
 
-Uri: https://www.multinformaticamadrid.com/fonts/fl-bigmug-line.woff
+Uri: https://github.com/updateit24/support/fonts/fl-bigmug-line.woff
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\fonts\fl-bigmug-line.woff
 Content Type: application/font-woff
 
-Uri: https://www.multinformaticamadrid.com/fonts/fontawesome-webfont.eot?
+Uri: https://github.com/updateit24/support/fonts/fontawesome-webfont.eot?
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\fonts\fontawesome-webfont-1.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.multinformaticamadrid.com/fonts/fontawesome-webfont.eot?v=4.7.0
+Uri: https://github.com/updateit24/support/fonts/fontawesome-webfont.eot?v=4.7.0
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\fonts\fontawesome-webfont.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.multinformaticamadrid.com/fonts/fontawesome-webfont.svg?v=4.7.0
+Uri: https://github.com/updateit24/support/fonts/fontawesome-webfont.svg?v=4.7.0
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\fonts\fontawesome-webfont.svg
 Content Type: image/svg+xml
 
-Uri: https://www.multinformaticamadrid.com/fonts/fontawesome-webfont.ttf?v=4.7.0
+Uri: https://github.com/updateit24/support/fonts/fontawesome-webfont.ttf?v=4.7.0
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\fonts\fontawesome-webfont.ttf
 Content Type: application/font-sfnt
 
-Uri: https://www.multinformaticamadrid.com/fonts/fontawesome-webfont.woff2?v=4.7.0
+Uri: https://github.com/updateit24/support/fonts/fontawesome-webfont.woff2?v=4.7.0
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\fonts\fontawesome-webfont.woff2
 Content Type: 
 
-Uri: https://www.multinformaticamadrid.com/fonts/fontawesome-webfont.woff?v=4.7.0
+Uri: https://github.com/updateit24/support/fonts/fontawesome-webfont.woff?v=4.7.0
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\fonts\fontawesome-webfont.woff
 Content Type: application/font-woff
 
-Uri: https://www.multinformaticamadrid.com/fonts/lg.eot?
+Uri: https://github.com/updateit24/support/fonts/lg.eot?
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\fonts\lg-1.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.multinformaticamadrid.com/fonts/lg.eot?n1z373
+Uri: https://github.com/updateit24/support/fonts/lg.eot?n1z373
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\fonts\lg.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.multinformaticamadrid.com/fonts/lg.svg?n1z373
+Uri: https://github.com/updateit24/support/fonts/lg.svg?n1z373
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\fonts\lg.svg
 Content Type: image/svg+xml
 
-Uri: https://www.multinformaticamadrid.com/fonts/lg.ttf?n1z373
+Uri: https://github.com/updateit24/support/fonts/lg.ttf?n1z373
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\fonts\lg.ttf
 Content Type: application/font-sfnt
 
-Uri: https://www.multinformaticamadrid.com/fonts/lg.woff?n1z373
+Uri: https://github.com/updateit24/support/fonts/lg.woff?n1z373
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\fonts\lg.woff
 Content Type: application/font-woff
 
-Uri: https://www.multinformaticamadrid.com/fonts/Linearicons.eot
+Uri: https://github.com/updateit24/support/fonts/Linearicons.eot
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\fonts\Linearicons.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.multinformaticamadrid.com/fonts/Linearicons.ttf
+Uri: https://github.com/updateit24/support/fonts/Linearicons.ttf
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\fonts\Linearicons.ttf
 Content Type: application/font-sfnt
 
-Uri: https://www.multinformaticamadrid.com/fonts/Linearicons.woff
+Uri: https://github.com/updateit24/support/fonts/Linearicons.woff
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\fonts\Linearicons.woff
 Content Type: application/font-woff
 
-Uri: https://www.multinformaticamadrid.com/fonts/materialdesignicons-webfont.eot?
+Uri: https://github.com/updateit24/support/fonts/materialdesignicons-webfont.eot?
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\fonts\materialdesignicons-webfont-1.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.multinformaticamadrid.com/fonts/materialdesignicons-webfont.eot?v=1.4.57
+Uri: https://github.com/updateit24/support/fonts/materialdesignicons-webfont.eot?v=1.4.57
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\fonts\materialdesignicons-webfont.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.multinformaticamadrid.com/fonts/materialdesignicons-webfont.svg?v=1.4.57
+Uri: https://github.com/updateit24/support/fonts/materialdesignicons-webfont.svg?v=1.4.57
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\fonts\materialdesignicons-webfont.svg
 Content Type: image/svg+xml
 
-Uri: https://www.multinformaticamadrid.com/fonts/materialdesignicons-webfont.ttf?v=1.4.57
+Uri: https://github.com/updateit24/support/fonts/materialdesignicons-webfont.ttf?v=1.4.57
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\fonts\materialdesignicons-webfont.ttf
 Content Type: application/font-sfnt
 
-Uri: https://www.multinformaticamadrid.com/fonts/materialdesignicons-webfont.woff2?v=1.4.57
+Uri: https://github.com/updateit24/support/fonts/materialdesignicons-webfont.woff2?v=1.4.57
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\fonts\materialdesignicons-webfont.woff2
 Content Type: 
 
-Uri: https://www.multinformaticamadrid.com/fonts/materialdesignicons-webfont.woff?v=1.4.57
+Uri: https://github.com/updateit24/support/fonts/materialdesignicons-webfont.woff?v=1.4.57
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\fonts\materialdesignicons-webfont.woff
 Content Type: application/font-woff
 
-Uri: https://www.multinformaticamadrid.com/hp-6005
+Uri: https://github.com/updateit24/support/hp-6005
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\hp-6005.html
 Content Type: text/html
 
-Uri: https://www.multinformaticamadrid.com/hp-8100
+Uri: https://github.com/updateit24/support/hp-8100
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\hp-8100.html
 Content Type: text/html
 
-Uri: https://www.multinformaticamadrid.com/hp-8300
+Uri: https://github.com/updateit24/support/hp-8300
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\hp-8300.html
 Content Type: text/html
 
-Uri: https://www.multinformaticamadrid.com/images/ajax-loader.gif
+Uri: https://github.com/updateit24/support/images/ajax-loader.gif
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\ajax-loader.gif
 Content Type: image/gif
 
-Uri: https://www.multinformaticamadrid.com/images/ampliacion-sustitucion-componentes-hardware.jpg
+Uri: https://github.com/updateit24/support/images/ampliacion-sustitucion-componentes-hardware.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\ampliacion-sustitucion-componentes-hardware.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/apple-touch-icon.png
+Uri: https://github.com/updateit24/support/images/apple-touch-icon.png
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\apple-touch-icon.png
 Content Type: image/png
 
-Uri: https://www.multinformaticamadrid.com/images/asistencia-informatica-autonomos-empresas.jpg
+Uri: https://github.com/updateit24/support/images/asistencia-informatica-autonomos-empresas.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\asistencia-informatica-autonomos-empresas.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/atencion-informatica-particulares.jpg
+Uri: https://github.com/updateit24/support/images/atencion-informatica-particulares.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\atencion-informatica-particulares.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/bg-footer-1.jpg
+Uri: https://github.com/updateit24/support/images/bg-footer-1.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\bg-footer-1.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/bg-forms.jpg
+Uri: https://github.com/updateit24/support/images/bg-forms.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\bg-forms.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/bg-index-3.jpg
+Uri: https://github.com/updateit24/support/images/bg-index-3.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\bg-index-3.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/bg-index-5.jpg
+Uri: https://github.com/updateit24/support/images/bg-index-5.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\bg-index-5.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/bg-index-6.jpg
+Uri: https://github.com/updateit24/support/images/bg-index-6.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\bg-index-6.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/bg-index-9.jpg
+Uri: https://github.com/updateit24/support/images/bg-index-9.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\bg-index-9.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/bg-typography.jpg
+Uri: https://github.com/updateit24/support/images/bg-typography.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\bg-typography.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/calendario-cita-previa-atencion-informatica.png
+Uri: https://github.com/updateit24/support/images/calendario-cita-previa-atencion-informatica.png
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\calendario-cita-previa-atencion-informatica.png
 Content Type: image/png
 
-Uri: https://www.multinformaticamadrid.com/images/contacto-inicio.jpg
+Uri: https://github.com/updateit24/support/images/contacto-inicio.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\contacto-inicio.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/cronometro-reparacion-ordenadores-urgente.png
+Uri: https://github.com/updateit24/support/images/cronometro-reparacion-ordenadores-urgente.png
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\cronometro-reparacion-ordenadores-urgente.png
 Content Type: image/png
 
-Uri: https://www.multinformaticamadrid.com/images/dell-990.jpg
+Uri: https://github.com/updateit24/support/images/dell-990.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\dell-990.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/dell-e5440.jpg
+Uri: https://github.com/updateit24/support/images/dell-e5440.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\dell-e5440.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/dell-e6410.jpg
+Uri: https://github.com/updateit24/support/images/dell-e6410.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\dell-e6410.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/favicon.ico
+Uri: https://github.com/updateit24/support/images/favicon.ico
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\favicon.ico
 Content Type: image/vnd.microsoft.icon
 
-Uri: https://www.multinformaticamadrid.com/images/fiabilidad-servicios-productos-informaticos.jpg
+Uri: https://github.com/updateit24/support/images/fiabilidad-servicios-productos-informaticos.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\fiabilidad-servicios-productos-informaticos.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/hp-6005.jpg
+Uri: https://github.com/updateit24/support/images/hp-6005.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\hp-6005.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/hp-8100.jpg
+Uri: https://github.com/updateit24/support/images/hp-8100.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\hp-8100.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/hp-8300.jpg
+Uri: https://github.com/updateit24/support/images/hp-8300.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\hp-8300.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/imac-24.jpg
+Uri: https://github.com/updateit24/support/images/imac-24.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\imac-24.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/lenovo-m82.jpg
+Uri: https://github.com/updateit24/support/images/lenovo-m82.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\lenovo-m82.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/loading.gif
+Uri: https://github.com/updateit24/support/images/loading.gif
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\loading.gif
 Content Type: image/gif
 
-Uri: https://www.multinformaticamadrid.com/images/logo-multinformatica-madrid.png
+Uri: https://github.com/updateit24/support/images/logo-multinformatica-madrid.png
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\logo-multinformatica-madrid.png
 Content Type: image/png
 
-Uri: https://www.multinformaticamadrid.com/images/nosotros-empresa-servicios-informaticos.jpg
+Uri: https://github.com/updateit24/support/images/nosotros-empresa-servicios-informaticos.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\nosotros-empresa-servicios-informaticos.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/ordenador-roto-urgencia-informatica.jpg
+Uri: https://github.com/updateit24/support/images/ordenador-roto-urgencia-informatica.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\ordenador-roto-urgencia-informatica.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/ordenadores-ocasion.jpg
+Uri: https://github.com/updateit24/support/images/ordenadores-ocasion.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\ordenadores-ocasion.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/portatil-averiado-reparacion-urgente.jpg
+Uri: https://github.com/updateit24/support/images/portatil-averiado-reparacion-urgente.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\portatil-averiado-reparacion-urgente.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/precios-razonables-asistencia-informatica.jpg
+Uri: https://github.com/updateit24/support/images/precios-razonables-asistencia-informatica.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\precios-razonables-asistencia-informatica.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/precios-servicios-informaticos-principal.jpg
+Uri: https://github.com/updateit24/support/images/precios-servicios-informaticos-principal.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\precios-servicios-informaticos-principal.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/precios-servicios-informaticos.jpg
+Uri: https://github.com/updateit24/support/images/precios-servicios-informaticos.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\precios-servicios-informaticos.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/que-nos-distingue-inicio.jpg
+Uri: https://github.com/updateit24/support/images/que-nos-distingue-inicio.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\que-nos-distingue-inicio.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/que-nos-distingue-principal.jpg
+Uri: https://github.com/updateit24/support/images/que-nos-distingue-principal.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\que-nos-distingue-principal.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/rapidez-asistencia-fallos-informaticos.jpg
+Uri: https://github.com/updateit24/support/images/rapidez-asistencia-fallos-informaticos.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\rapidez-asistencia-fallos-informaticos.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/servicios-informaticos-hardware-software.jpg
+Uri: https://github.com/updateit24/support/images/servicios-informaticos-hardware-software.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\servicios-informaticos-hardware-software.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/software.jpg
+Uri: https://github.com/updateit24/support/images/software.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\software.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/solicitar-reparacion-informatica.jpg
+Uri: https://github.com/updateit24/support/images/solicitar-reparacion-informatica.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\solicitar-reparacion-informatica.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/tienda-hardware.jpg
+Uri: https://github.com/updateit24/support/images/tienda-hardware.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\tienda-hardware.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/tienda-productos-informaticos.jpg
+Uri: https://github.com/updateit24/support/images/tienda-productos-informaticos.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\tienda-productos-informaticos.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/images/urgencia-informatica-asistencia-rapida.jpg
+Uri: https://github.com/updateit24/support/images/urgencia-informatica-asistencia-rapida.jpg
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\images\urgencia-informatica-asistencia-rapida.jpg
 Content Type: image/jpeg
 
-Uri: https://www.multinformaticamadrid.com/js/core.min.js
+Uri: https://github.com/updateit24/support/js/core.min.js
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\js\core.min.js
 Content Type: application/javascript
 
-Uri: https://www.multinformaticamadrid.com/js/script.js
+Uri: https://github.com/updateit24/support/js/script.js
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\js\script.js
 Content Type: application/javascript
 
-Uri: https://www.multinformaticamadrid.com/m82-sff
+Uri: https://github.com/updateit24/support/m82-sff
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\m82-sff.html
 Content Type: text/html
 
-Uri: https://www.multinformaticamadrid.com/nosotros
+Uri: https://github.com/updateit24/support/nosotros
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\nosotros.html
 Content Type: text/html
 
-Uri: https://www.multinformaticamadrid.com/ordenadores
+Uri: https://github.com/updateit24/support/ordenadores
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\ordenadores.html
 Content Type: text/html
 
-Uri: https://www.multinformaticamadrid.com/precios
+Uri: https://github.com/updateit24/support/precios
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\precios.html
 Content Type: text/html
 
-Uri: https://www.multinformaticamadrid.com/privacy-policy
+Uri: https://github.com/updateit24/support/privacy-policy
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\privacy-policy.html
 Content Type: text/html
 
-Uri: https://www.multinformaticamadrid.com/quenosdistingue
+Uri: https://github.com/updateit24/support/quenosdistingue
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\quenosdistingue.html
 Content Type: text/html
 
-Uri: https://www.multinformaticamadrid.com/servicios
+Uri: https://github.com/updateit24/support/servicios
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\servicios.html
 Content Type: text/html
 
-Uri: https://www.multinformaticamadrid.com/tienda
+Uri: https://github.com/updateit24/support/tienda
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\tienda.html
 Content Type: text/html
 
-Uri: https://www.multinformaticamadrid.com/urgencias
+Uri: https://github.com/updateit24/support/urgencias
 File Name: C:\Downloaded Web Sites\www.multinformaticamadrid.com\urgencias.html
 Content Type: text/html
 
